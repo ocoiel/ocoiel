@@ -16,4 +16,4 @@
    
 Do you like music? <a href="https://open.spotify.com/user/ocoiel355">Follow me on Spotify</a>
    
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ocoiel355&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ocoiel355&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://open.spotify.com/user/ocoiel355)
